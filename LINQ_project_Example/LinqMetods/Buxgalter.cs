@@ -10,7 +10,7 @@ namespace LINQ_project_Example.LinqMetods
     {
         public int Id { get; set; }
         public string BName { get; set; }
-        public string ProgrammingLanguageId { get; set; }
+        public int PLid { get; set; }
 
     }
 }
